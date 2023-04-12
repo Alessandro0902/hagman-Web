@@ -12,9 +12,9 @@ N'hésitez pas a clone le projet.
 
 
 ## Démarage
-Une fois les prérequis installer et le projet cloner:
--Lancer le serveur Golang 
--Aller sur votre navigateur et retrouver le Hangman grace a :
+Une fois les prérequis installer et le projet cloner:\
+-Lancer le serveur Golang \
+-Aller sur votre navigateur et retrouver le Hangman grace a :\
 #### HTTP://localhost:8080
 
 Versions 1.0
