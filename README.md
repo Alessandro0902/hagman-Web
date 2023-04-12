@@ -1,6 +1,6 @@
 # hagman-Web
  
-Dans le cadre de notre formation au sein du campus Ynov Lyon, nous avons développé un site web qui avait pour but de répertorier tout les données d'une API artiste.
+Dans le cadre de notre formation au sein du campus Ynov Lyon, nous avons développé le jeux Hangman a partir d'une librairie de mots et un serveur web golang.
 
 
 ## Pour commencer
