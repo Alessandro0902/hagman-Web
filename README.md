@@ -7,14 +7,14 @@ Dans le cadre de notre formation au sein du campus Ynov Lyon, nous avons dévelo
 N'hésitez pas a clone le projet.
 
 ## Pré-requis
--Visual Studio Code
+-Visual Studio Code\
 -Package Golang
 
 
 ## Démarage
 Une fois les prérequis installer et le projet cloner:\
 -Lancer le serveur Golang \
--Aller sur votre navigateur et retrouver le Hangman grace a :\
+-Aller sur votre navigateur et retrouver le Hangman grace a :
 #### HTTP://localhost:8080
 
 Versions 1.0
